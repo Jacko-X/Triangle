@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.page{
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbarStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navButton{
+    border-style: solid;
+    border-radius: 3px;
+    border-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 30px;
+    color: brown;
+
+}
+
+.navButton:hover{
+    background-color: black;
+    color: white;
+
+}
+
+.nameHeader{
+    text-align: center;
+    font-size: 8rem;
+    margin-top: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 0px;
+}
+
+.headerIntro{
+    text-align: center;
+    font-size: 2rem;
+}
