@@ -44,13 +44,13 @@
    	       "tell you the area of the triangle\n");
    	
    	printf("        /\\\n"
-           "       /  \\\n"
-           "      /    \\\n"
-           "     /      \\\n"
-           "    /        \\\n"
-           "   /          \\\n"
-           "  /            \\\n"
-           " /______________\\\n");
+               "       /  \\\n"
+               "      /    \\\n"
+               "     /      \\\n"
+               "    /        \\\n"
+               "   /          \\\n"
+               "  /            \\\n"
+               " /______________\\\n");
     
 	printf("Please enter a positive triangle length:  ");
 	scanf("%8lf", &a); /* Gets side a */
